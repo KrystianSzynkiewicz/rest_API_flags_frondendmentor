@@ -1,0 +1,79 @@
+.countryContainerS a{
+    text-decoration: none;
+    color: black;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.deactive {
+    display: none;
+}
+
+.detailContainer {
+    padding: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.flagAndBackContainer {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.flagAndBackContainer button {
+    width: 80px;
+}
+.flagAndBackContainer img {
+    padding: 20px;
+}
+
+.detailInfosContainer {
+    padding-top: 50px;
+    width: 50%;
+}
+
+.infoContainer {
+
+}
+
+.upContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.downContainer div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.downContainer div strong {
+    padding-top: 2.8%;
+}
+
+.leftUpContainer {
+
+}
+
+.leftUpContainer div {
+    display: flex;
+}
+
+.leftUpContainer div strong {
+    padding-top: 8%;
+}
+
+.rightUpContainer {
+
+}
+
+.rightUpContainer div {
+    display: flex;
+}
+
+.rightUpContainer div strong {
+    padding-top: 8%;
+}
